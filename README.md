@@ -27,6 +27,12 @@ fx-CG50 | Quick Start Guide(EN)
 fx-CG50 | fx-CG50/fx-CG20 ソフトウェア取扱説明書(JP) PDF
 
 
+## CITIZEN
+item | manual
+--- | ---
+SRP-45N | Instruction Manual(JP/EN)
+
+
 ## HP
 item | manual
 --- | ---
